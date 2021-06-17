@@ -1,4 +1,4 @@
-# Task 7.  English-for-kids от [RSS School](https://rs.school/)
+# Task 5.  English-for-kids от [RSS School](https://rs.school/)
 
 <img src="./img/english for kids.jpg">
 
